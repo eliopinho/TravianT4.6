@@ -10,7 +10,7 @@ everything is here to install and setup servers
 all generic domain has example.com feel free to replace to your domain
 server used nginx and mysql
 
-i can explain how to step by step do it.
+i can explain how to step by step do it.       -> can you please helpme with that ? ;-)
 if you are compitent then you can figure it out
 
 enjoy if anyone does want instructions to insstall figure it out and make a pull request editing this readme.
